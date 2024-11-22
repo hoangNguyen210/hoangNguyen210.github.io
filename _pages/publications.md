@@ -9,6 +9,8 @@ author_profile: true
 ___
 These works provide an overview of my research in the medical domain by utilizing machine learning and deep learning algorithms.
 
+* Duy M. H. Nguyen, **Hoang Nguyen**, Nghiem T. Diep, Tan N. Pham, Tri Cao, Binh T. Nguyen, Paul Swoboda, Nhat Ho, Shadi Albarqouni, Pengtao Xie, Daniel Sonntag, Mathias Niepert, "LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching", , <i> 37th Annual Conference on Neural Information Processing Systems </i> Full text available at <a href="https://arxiv.org/abs/2306.11925" target="_blank" rel="noopener"> Link </a> . 
+
 * Duy M. H. Nguyen, **Hoang Nguyen**, Truong N. T. Mai, Tri Cao, Binh T. Nguyen, Nhat
 Ho, Paul Swoboda, Shadi Albarqouni, Pengtao Xie, Daniel Sonntag, "Joint Self-Supervised
 Image-Volume Representation Learning with Intra-Inter Contrastive Clustering", <i> 37th
@@ -27,7 +29,7 @@ noise detection algorithm for Vietnamese real estate posts," <i>36th Annual Meet
 
 ## Under Review
 
-* Duy M. H. Nguyen, **Hoang Nguyen**, Nghiem T. Diep, Tan N. Pham, Tri Cao, Binh T. Nguyen, Paul Swoboda, Nhat Ho, Shadi Albarqouni, Pengtao Xie, Daniel Sonntag, Mathias Niepert, "LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching". Full text available at <a href="https://arxiv.org/abs/2306.11925" target="_blank" rel="noopener"> ArXiv </a> . 
+
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
